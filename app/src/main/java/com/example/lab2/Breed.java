@@ -4,6 +4,7 @@ public class Breed {
     private static int count = 1;
 
     private int id;
+
     private String mName;
     private String mTemperament;
     private String mDescription;

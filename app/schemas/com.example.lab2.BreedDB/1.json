@@ -4,6 +4,7 @@
     "version": 1,
     "identityHash": "55b50f41b3fc776421e4db89e10506ab",
     "entities": [
+
       {
         "tableName": "Breed",
         "createSql": "CREATE TABLE IF NOT EXISTS `${TABLE_NAME}` (`id` INTEGER NOT NULL, `mName` TEXT, `mTemperament` TEXT, `mDescription` TEXT)",
