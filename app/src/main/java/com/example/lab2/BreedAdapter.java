@@ -18,6 +18,7 @@ public class BreedAdapter extends RecyclerView.Adapter <BreedAdapter.BreedViewHo
     public BreedAdapter(Context mContext, ArrayList<Breed> mBreedArray) {
         this.mContext = mContext;
         this.mBreedArray = mBreedArray;
+
     }
 
     @NonNull
